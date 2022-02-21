@@ -1,17 +1,14 @@
 module.exports = {
-  title: "hoodie",
-  description: "Hello :) I'm Hudi who developed gatsby-starter-hoodie theme.",
-  author: "Hudi",
-  siteUrl: "https://devhudi.github.io/gatsby-starter-hoodie/",
+  title: "여러가지 생각들",
+  description: "우아한테크코스를 하면서 제 생각들을 정리한 블로그입니다.",
+  author: "Tonic",
+  siteUrl: "https://devtonic.netlify.app/",
   links: {
-    github: "https://github.com/devHudi",
-    linkedIn: "https://linkedin.com",
-    facebook: "https://www.facebook.com",
-    instagram: "https://www.instagram.com",
-    email: "mailto:devhudi@gmail.com",
+    github: "https://github.com/tonic523",
+    email: "mailto:diddmlvkf@gmail.com",
   },
   utterances: {
-    repo: "devHudi/gatsby-starter-hoodie",
+    repo: "tonic523/blog",
     type: "pathname",
   },
 }
