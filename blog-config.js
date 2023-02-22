@@ -1,7 +1,7 @@
 module.exports = {
-  title: "여러가지 생각들",
-  description: "우아한테크코스를 하면서 제 생각들을 정리한 블로그입니다.",
-  author: "Tonic",
+  title: "주관적인 블로그",
+  description: "주관적인 생각들이 담겨있는 글들이니 피드백 부탁드립니다!",
+  author: "우석씨",
   siteUrl: "https://devtonic.netlify.app/",
   links: {
     github: "https://github.com/tonic523",
